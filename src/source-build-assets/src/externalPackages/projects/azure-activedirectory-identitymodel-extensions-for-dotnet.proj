@@ -2,6 +2,7 @@
 
   <PropertyGroup>
     <PackagesOutput>$(ProjectDirectory)pack</PackagesOutput>
+    <GlobalJsonFile>$(ProjectDirectory)global.json</GlobalJsonFile>
     <CustomRepoBuild>true</CustomRepoBuild>
   </PropertyGroup>
 
